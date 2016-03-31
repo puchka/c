@@ -1,0 +1,199 @@
+folks : gens
+
+nook : coin
+
+cranny : fente
+
+otherwise : autrement
+
+slip : glisser
+
+bound : relié
+
+stem : contenir
+
+haul : traîner
+
+however : toutefois
+
+laid up : alité
+
+aware : au courant
+
+tie : lier
+
+impediment : obstacle
+
+show-stopper : clou du spectacle
+
+despite : malgré
+
+tremendous : formidable
+
+indeed : effectivement, certes, en effet
+
+despite : malgré
+
+trim : tailler
+
+presumably : vraisemblablement
+
+cram : fourrer
+
+rather : plutôt
+
+bulk : volume, grosseur
+
+slumber : dormir paisiblement
+
+briefcase : porte-documents
+
+although : quoique
+
+wart : verrue
+
+to get rid of : de débarrasser de
+
+huge : immense
+
+throughout : d'un bout à l'autre
+
+encounter : rencontrer
+
+nod : hocher
+
+beredom : ennui, lassitude
+
+struggle : lutte
+
+almost : quasiment
+
+pitfall : piège
+
+idiosyncrasy : particularité
+
+cornerstone : pierre angulaire
+
+cast : moulé
+
+to get rid of : se débarrasser de
+
+fairly : loyalement
+
+imply : impliquer
+
+evolve : élaborer, évoluer
+
+although : quoique
+
+wading : pataugeage
+
+eager : désireux
+
+extrinsic : extrinsèque
+
+awkward : maladroit
+
+further : supplémentaire
+
+lingo : jargon
+
+bunch : grappe
+
+almost : quasiment
+
+commonality : standardisation
+
+indeed : en effet
+
+bulb : ampoule
+
+standpoint : point de vue
+
+dimmer switch : variateur (lumière)
+
+either : non plus
+
+well-to-do : riche
+
+intercourse : rapports
+
+altogether : entièrement
+
+conspicuous : évident
+
+sight : apercevoir
+
+wit : intelligence
+
+fondness : prédilection
+
+pun : calembour, jeu de mots
+
+limerick : poème humoristique
+
+caveat : avertissement
+
+hint : allusion, nuance, soupçon
+
+set : ensemble
+
+landmark : jalon, borne
+
+humiliating : humiliant
+
+mutter : marmonner
+
+hurried : pressé
+
+eavesdrop : espionner
+
+outdo : surpasser
+
+upset : bouleversé
+
+sulk : bouder
+
+tackle : s'attaquer à
+
+steady : constant, assidu
+
+leg : jambe
+
+thereby : ainsi
+
+trick : blague
+
+fumble : tâtonner, fouiller
+
+daze : étourdir
+
+scramble : avancer péniblement
+
+involved : compliqué
+
+oddity : bizarrerie, curiosité
+
+dazzling : éblouissant
+
+merely : simplement
+
+to be fond of : aimer
+
+dawn : aube
+
+proofreader : correcteur
+
+mercilessly : impitoyablement
+
+crossed : barré
+
+counterexample : contre-exemple
+
+cheerfully : joyeusement
+
+mountainous : montagneux
+
+claim : exiger
+
+flunk : recaler

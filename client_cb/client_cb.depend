@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1353768660 source:d:\finale_inter\mpm_cb_client\client_cb\mpm_client.cpp
+	<stdio.h>
+	<winsock2.h>
+	<conio.h>
+	"mpm_client.h"
+
+1353749322 d:\finale_inter\mpm_cb_client\client_cb\mpm_client.h
+
+1353761462 source:c:\users\sami\doc\nouveau dossier\version_1\client_cb\mpm_client.cpp
+	<stdio.h>
+	<winsock2.h>
+	<conio.h>
+	"mpm_client.h"
+
+1353742122 c:\users\sami\doc\nouveau dossier\version_1\client_cb\mpm_client.h
+
+1353768427 source:f:\cpp\client_cb\main.cpp
+	<stdio.h>
+	<winsock2.h>
+	<conio.h>
+	"mpm_client.h"
+
+1353742122 f:\cpp\client_cb\mpm_client.h
+
