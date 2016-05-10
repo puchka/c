@@ -1,0 +1,13 @@
+// connexion des case avec leu slots
+    QObject::connect(case_1, SIGNAL(released()), this, SLOT(reset_bCase()));
+    QObject::connect(case_1, SIGNAL(pressed()), case_1, SLOT(coloreMoi()));
+
+    QObject::connect(case_2, SIGNAL(pressed()), this, SLOT(reset_bCase()));
+    QObject::connect(case_2, SIGNAL(pressed()), case_2, SLOT(coloreMoi()));
+
+    QObject::connect(case_3, SIGNAL(pressed()), this, SLOT(reset_bCase()));
+    QObject::connect(case_3, SIGNAL(pressed()), case_3, SLOT(coloreMoi()));
+
+ BCase *case_1 = new BCase("1", this);
+    BCase *case_2 = new BCase("2", this);
+    BCase *case_3 = new BCase("3", this);
